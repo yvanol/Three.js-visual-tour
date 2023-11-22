@@ -1,3 +1,1 @@
-# Visual-Tour
-#A visual tour of a room with threejs
-#Type npm run dev to launch de project
+type npm run dev to run the app
